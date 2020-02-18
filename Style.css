@@ -1,0 +1,66 @@
+body {
+	background-image: url("in-sgbd.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+.jumbotron {
+	margin: 5px;
+	padding: 30px;
+	background-color: lightblue;
+}
+.jumbotron img {
+	float: right;
+	margin-top: 0;
+}
+.banco {
+	display: inline-block;
+	width: 30%;
+}
+.banco u {
+	color: red;
+	font-weight: bold;
+}
+.btn-md {
+	width: 20%;
+	float: right;
+}
+.alert-info {
+	width: 80%;
+	margin: 5%;
+}
+.success {
+	font-weight: bold;
+	display: inline-block;
+}
+.frmTb {
+	display: inline-block;	
+	width: 40%;
+}
+table {
+	background-color: rgba(255,255,255,0.8);
+	border-radius: 5px;
+	margin-left: 10%;
+}
+table th input  {
+	font-weight: bold;
+	text-transform: uppercase;
+	text-align: center;
+}
+#inp {
+	margin-left: 10%;
+}
+#ntb {
+	background-color: rgba(255,255,255,0.8);
+	text-transform: uppercase;
+	margin-left: 1%;
+	display: inline-block;
+	border-radius: 5px;
+	padding: 10px;
+	margin-bottom: 2px;
+	margin-left: 10%;
+}
+#prnc {
+	display: inline-block;
+	width: 30%;
+	margin-left: 10%;
+}
